@@ -1,0 +1,3 @@
+[submodule "HP_34401A_Python"]
+	path = HP_34401A_Python
+	url = https://github.com/PY1CX/HP-34401A-Python.git
